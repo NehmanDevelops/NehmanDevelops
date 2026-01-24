@@ -8,7 +8,7 @@
 <!-- Typing animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;CS+Student+%40+York+University+%F0%9F%8E%93;1st+Place+Hackathon+Winner+%F0%9F%8F%86;RBC+Academy+Graduate+%F0%9F%8F%A6)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Aspiring+Product+Builder+%F0%9F%9A%80;CS+Student+%40+York+University+%F0%9F%8E%93;RBC+Academy+Graduate+%F0%9F%8F%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,24 +35,27 @@ const nehman = {
 
 <br/>
 
-<!-- Two column layout -->
+<!-- Featured Projects - 3 cards -->
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🚀 Featured Projects
 
-<a href="https://apex-financial-bank.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Apex-Financial-Bank&theme=tokyonight&hide_border=true" />
+<a href="https://price-patrol-mu.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Price-Patrol&theme=tokyonight&hide_border=true" />
 </a>
-
+<a href="https://payment-pipeline.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Payment-Pipeline&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://fraud-control.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Fraud-Control&theme=tokyonight&hide_border=true" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
 
 ### 📊 GitHub Stats
 
@@ -60,9 +63,6 @@ const nehman = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehmanDevelops&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
@@ -171,7 +171,7 @@ const nehman = {
 
 ### 💬 Let's Connect!
 
-I'm always open to discussing **fintech**, **ML projects**, or **collaboration opportunities**.
+I'm always open to discussing **fintech**, **product ideas**, or **collaboration opportunities**.
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehmanmain@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nehmans-portfolio.vercel.app/)
@@ -187,10 +187,3 @@ I'm always open to discussing **fintech**, **ML projects**, or **collaboration o
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-
-<!-- Snake animation (optional - requires GitHub Action to work) -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NehmanDevelops/NehmanDevelops/output/github-contribution-grid-snake-dark.svg" />
-</div>
--->
