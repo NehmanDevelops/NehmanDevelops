@@ -28,8 +28,7 @@
 const nehman = {
     location: "Toronto, ON 🇨🇦",
     education: "Honours BSc Computer Science @ York University",
-    currentFocus: ["Fintech", "Machine Learning", "Full-Stack Development"],
-    funFact: "I built a fraud detection system before I finished my first year of CS 🚀"
+    currentFocus: ["Fintech", "Machine Learning", "Full-Stack Development"]
 };
 ```
 
@@ -41,7 +40,7 @@ const nehman = {
 ### 🚀 Featured Projects
 
 <a href="https://price-patrol-mu.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Price-Patrol&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=PricePatrol&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://payment-pipeline.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehmanDevelops&repo=Payment-Pipeline&theme=tokyonight&hide_border=true" />
