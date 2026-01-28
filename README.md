@@ -16,7 +16,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=NehmanDevelops&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nehmans-portfolio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nehmandevelops.github.io/NehmanPortfolio/)
   [![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehman-rahimi-916225258/)
   
 </div>
